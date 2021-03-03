@@ -1,6 +1,7 @@
 # OSM, the Open Source Music project
 
 Have you ever wanted to participate in the creation of a song of a weird genre? Experiment with a band with no strings attached?
+
 OSM is an open source project meant to breed creativity with a focus on community.
 
 ## How it works
