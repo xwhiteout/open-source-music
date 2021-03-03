@@ -8,7 +8,7 @@ OSM is an open source project meant to breed creativity with a focus on communit
 
 ### Start fresh
 
-In OSM you can start a song from scratch by simply copying the [song template](./templates/song/README.md) folder and filling it with your own material. We will only ask of you to try to stick to the [collaboration rules](#collaboration-rules) so the repository can be maintained in order.
+In OSM you can start a song from scratch by simply copying the [song template](./templates/song/README.md) and filling it with your own material. We will only ask you to stick to the [collaboration rules](#collaboration-rules) so the repository can be maintained in order.
 
 ### Collaborate
 
