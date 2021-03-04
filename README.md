@@ -47,7 +47,7 @@ You will need a basic understanding of git and markdown, we recommend you to che
 
 - **Albums**
   - Compilation albums are planned to be released according to community interaction under the OSM artist label on platforms such as YouTube, Bandcamp and Spotify with no monetary intentions. Should we reach a point were money becomes a concern, we, the administrators, give our word that we'll give notice and try to reach an agreement on how to proceed before moving forwards.
-  - Anybody is free to do their own compilations and share them to whatever platform they want as long as (in good faith) they credit the original source.
+  - Anybody is free to do their own compilations and share them to whatever platform they want as long as they (in good faith) credit the original source.
 
 ## More information
 
