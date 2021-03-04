@@ -12,7 +12,7 @@ In OSM you can start a song from scratch by simply copying the [song template](.
 
 ### 🤝 Collaborate
 
-Browse through the existing song repertoire in the [music](music) directory and have a go to any of them. To do so, yo will have to create a `feature/` branch and request a pull to the _song starter_, more information below.
+Browse through the existing song repertoire in the [music](music) directory and have a go to any of them. To do so, yo will have to create a feature branch and request a pull to the _song starter_, more information below.
 
 ### 💬 Start a conversation
 
