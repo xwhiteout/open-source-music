@@ -28,6 +28,7 @@ You will need a basic understanding of git and markdown, we recommend you to che
   - Songs must be approved by an administrator in a [Pull Request (PR)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) before being merged to `main`.
   - The **Song Starter** is the name attributed to the creator of the PR were a song was started.
   - Contributors must create PRs to add material to existing songs, which can only be merged once the *song starter* and an administrator approves them.
+  - The mp3 located at the start in the root song directory is meant to be kept up to date.
   - Remixes and different takes on OSM songs are allowed following the same formula as any other song, no credits required.
   - Songs featuring non open source materials won't be allowed in order to avoid any legal issues.
 
