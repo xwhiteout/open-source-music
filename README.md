@@ -25,9 +25,9 @@ You will need a basic understanding of git and markdown, we recommend you to che
 - **Songs**
   - Songs must follow the [song template](./templates/song/README.md) structure and be uploaded to the [music](music) directory.
   - The README.md file acts as a presentation sheet were the _song starter_ is credited and the vision of the song is developed.
-  - Songs must be approved by the administrators in a [Pull Request](https://github.com/xwhiteout/open-source-music/pulls) before being merged to `main`.
+  - Songs must be approved by the administrators in a [Pull Request (PR)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) before being merged to `main`.
   - The **Song Starter** is the name attributed to the creator of the PR were a song was added to `main`.
-  - Contributors must create [feature pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) before adding to existing songs, which can only be merged once the *song starter* and an administrator approves them.
+  - Contributors must create PRs to add to existing songs, which can only be merged once the *song starter* and an administrator approves them.
   - Remixes and different takes on OSM songs are allowed following the same formula as any other song, no credits required. We advice to let the song starters know and crediting the original songs.
   - Songs featuring non open source materials won't be allowed in order to avoid any legal issues.
 
